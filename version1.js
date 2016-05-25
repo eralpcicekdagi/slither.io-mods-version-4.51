@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Diep.io Mods version 1.12 by Diepiomods.com
+// @name         Diep.io Mods Version 1.12 by Diepiomods.com
+// @namespace    http://slither.io/
 // @version      1.12
-// @description  Diep.io (zoom, minimap, autshoot[E])
+// @description  Diep.io Mods Zoom, Map, AutoFire
 // @author       Diepiomods.com
-// @match        http://diep.io
-// @run-at       document-start
-// @grant        GM_getResourceText
-// @resource html http://agarw.com/diepmodu.html
-// @namespace Diepiomods.com
-// ==/UserScript==  
+// @match        http://diep.io/
+// @grant        none
+// ==/UserScript==
+
+// Custom logging function - disabled by default
 
 
 window.stop(); 
