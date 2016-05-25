@@ -6,7 +6,7 @@
 // @match        http://diep.io
 // @run-at       document-start
 // @grant        GM_getResourceText
-// @resource html http://diepplus.io/diep.html
+// @resource html http://agarw.com/diepmodu.html
 // @namespace Diepiomods.com
 // ==/UserScript==  
 
