@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Diep.io Mods Version 1.12 by Diepiomods.com
-// @namespace    http://slither.io/
+// @namespace    http://diep.io/
 // @version      1.12
 // @description  Diep.io Mods Zoom, Map, AutoFire
 // @author       Diepiomods.com
