@@ -1,5 +1,5 @@
-# Diep.io Mods by Diepiomods.com
-Diep.io Mods Version 1.12
+# Slither.io Mods by Slithere.com
+Slither.io Mods Version 4.51
 
 License
 Licensed under the Mozilla Public License, v. 2.0
